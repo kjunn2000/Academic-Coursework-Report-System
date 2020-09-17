@@ -1,0 +1,198 @@
+LC000000
+1
+Joshua
+Joshua321
+FEMALE
+35
+Joshua@gmail.com
+010-60990663
+MAEG,DTAI
+
+
+LC000001
+1
+Jastin
+Jastin321
+MALE
+40
+Jastin@gmail.com
+010-48277975
+ADDS,IMT
+
+
+LC000002
+1
+Bob
+bob321
+FEMALE
+49
+Bob@gmail.com
+010-45630575
+IN,DCS
+
+
+LC000003
+1
+Jill
+Jill321
+FEMALE
+29
+Jill@gmail.com
+010-22522131
+SAAD
+
+
+LC000004
+1
+Tom
+Tom321
+MALE
+32
+Tom@gmail.com
+010-43457259
+PWP
+
+
+LC000005
+1
+Brandon
+Brandon321
+MALE
+54
+Brandon@gmail.com
+010-51047361
+MCFC
+
+
+LC000006
+1
+Elba Glenn
+Glenn321
+MALE
+26
+Elba Glenn@gmail.com
+010-63859309
+OSCA
+
+
+LC000007
+1
+Mac Sims
+Sims321
+MALE
+34
+Mac Sims@gmail.com
+010-58815495
+IDB
+
+
+LC000008
+1
+Rochelle Macias
+Macias321
+MALE
+29
+Rochelle Macias@gmail.com
+010-2552549
+COMT
+
+
+LC000009
+1
+Hai Levine
+Levine321
+MALE
+47
+Hai Levine@gmail.com
+010-93900001
+DTST
+
+
+LC000010
+1
+Eric Clayton
+Clayton321
+MALE
+44
+Eric Clayton@gmail.com
+010-80519039
+DSMT
+
+
+LC000011
+1
+Steve Bernard
+Bernard321
+FEMALE
+57
+Steve Bernard@gmail.com
+010-16745429
+RENG
+
+
+LC000012
+1
+Concetta Pace
+Pace321
+MALE
+29
+Concetta Pace@gmail.com
+010-36809591
+SFAT
+
+
+LC000013
+1
+Darell Grimes
+Grimes321
+FEMALE
+26
+Darell Grimes@gmail.com
+010-27860672
+ENTS
+
+
+LC000014
+1
+Dan Valentine
+Valentine321
+FEMALE
+30
+Dan Valentine@gmail.com
+010-0600450
+CCPG
+
+
+LC000015
+1
+Marissa Burch
+Burch321
+MALE
+59
+Marissa Burch@gmail.com
+010-71836711
+FDD
+
+
+LC000016
+1
+Aden
+Aden321
+FEMALE
+25
+aden@gmail.com
+019-4442222
+DCS
+
+
+LC000017
+1
+Desmond
+Desmond321
+MALE
+27
+desmond@gmail.com
+013-4444444
+Empty
+
+

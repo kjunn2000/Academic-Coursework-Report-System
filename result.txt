@@ -1,0 +1,2745 @@
+cd1d0577-17ea-49f1-9f91-0e0ca9f509bb
+IMT
+18
+10
+42
+70
+Well Done!
+
+
+7c1bf447-4045-4547-8e1e-adf3d33e28af
+IN
+12
+15
+42
+69
+Well Done!
+
+
+58b23a7b-3562-4f61-b8b2-df22136d41fa
+SAAD
+17
+15
+47
+79
+Well Done!
+
+
+9027a4fc-47a6-47fc-8294-80f5fcce1d37
+PWP
+11
+17
+52
+80
+Well Done!
+
+
+65d8d6c3-f302-466d-9ec7-5cdc0dd9bbde
+DTAI
+10
+18
+46
+74
+Well Done!
+
+
+94d34e9e-da34-4631-8b95-7b194d2a7c90
+IMT
+16
+16
+47
+79
+Well Done!
+
+
+a62b8c94-bef7-47e6-b5ac-5834c21cffbf
+IN
+16
+17
+51
+84
+Well Done!
+
+
+d63971a4-32e8-468f-a71c-7d0ff824b7be
+SAAD
+19
+11
+52
+82
+Well Done!
+
+
+d0e3d83d-cda5-4a9f-9e03-0c130686f5a1
+PWP
+11
+17
+40
+68
+Well Done!
+
+
+a4c2c848-db5b-4198-a966-9331abd98eb0
+DTAI
+11
+12
+59
+82
+Well Done!
+
+
+2fc5445a-cc93-4cf7-88dc-4eea91ec4e6b
+IMT
+15
+15
+49
+79
+Well Done!
+
+
+c63d096a-d0ae-4916-92c3-187413d03a89
+IN
+18
+17
+49
+84
+Not Good!
+
+
+c26f7720-a866-4f6e-b59b-76148acb4b17
+SAAD
+12
+14
+56
+82
+Well Done!
+
+
+7fb686a9-c782-47bf-8e95-50fdac06244c
+PWP
+19
+18
+50
+87
+Well Done!
+
+
+024728d9-1994-44d0-86e0-89957dfc8cc1
+DTAI
+17
+17
+57
+91
+Well Done!
+
+
+3e58ad02-fe96-4c72-9039-2a7a481ea2af
+IMT
+12
+13
+43
+68
+Well Done!
+
+
+7416ee3c-0910-45b4-a89d-b36a49321239
+IN
+16
+17
+56
+89
+Well Done!
+
+
+4405b4be-26f8-4645-9bdd-2167fa3ade69
+SAAD
+18
+10
+58
+86
+Well Done!
+
+
+6cf1d305-cb33-4818-87cf-5feff3a46530
+PWP
+19
+10
+43
+72
+Well Done!
+
+
+f3744743-cef8-4c76-b885-a19da4aa7153
+DTAI
+13
+10
+43
+66
+Well Done!
+
+
+48d4ca51-4c58-4e93-8cdb-65f117fcf19c
+IMT
+17
+15
+49
+81
+Well Done!
+
+
+1060a25d-c6ea-44d4-ab47-d4605fab0ef9
+IN
+15
+16
+59
+90
+Well Done!
+
+
+f5cc247d-2652-4ed6-bc3a-3622252ca0f2
+SAAD
+11
+19
+42
+72
+Well Done!
+
+
+a35930d2-f938-4225-a426-415b988569cf
+PWP
+12
+16
+54
+82
+Well Done!
+
+
+82d9c231-bd38-47c3-9e74-2fd6740c2834
+DTAI
+12
+18
+45
+75
+Well Done!
+
+
+84edaf9c-8717-456b-8b0c-9efed47362f3
+IMT
+15
+17
+51
+83
+Well Done!
+
+
+951e8027-233b-4ded-8646-eca7b4874b5f
+IN
+15
+11
+50
+76
+Well Done!
+
+
+3abfbad3-0cef-424b-86f7-d241ec32df8b
+SAAD
+18
+17
+51
+86
+Well Done!
+
+
+af0e6299-9255-40bd-a5fd-38d5d95f5c70
+PWP
+14
+16
+55
+85
+Well Done!
+
+
+39c32a96-df09-49ab-82d1-f865586ab15f
+DTAI
+17
+16
+44
+77
+Well Done!
+
+
+01ae4245-15a8-481c-9243-e3817e9ae795
+IMT
+19
+11
+51
+81
+Well Done!
+
+
+0c70c97a-8519-4225-8bcc-3d5d76bb28ac
+IN
+13
+13
+43
+69
+Well Done!
+
+
+e510fcb4-b559-49bd-a939-4d55f401f70c
+SAAD
+17
+11
+58
+86
+Well Done!
+
+
+603c9cc7-0d99-4d9e-903c-0d44525c56ce
+PWP
+16
+12
+46
+74
+Well Done!
+
+
+ada7040e-d09e-4391-9d5f-88d87cbd29c7
+IN
+14
+17
+40
+71
+Well Done!
+
+
+cb19e04a-1e3e-4568-bbce-8a81014e92fd
+SAAD
+18
+14
+52
+84
+Well Done!
+
+
+dd4f49c6-a4e8-4d7b-8947-cd9eaa429334
+PWP
+14
+10
+40
+64
+Well Done!
+
+
+15031a4e-125b-4069-842e-b569b851a6e3
+MCFC
+15
+11
+59
+85
+Well Done!
+
+
+a3aa32d5-5553-4aa9-a1ff-4cdd997b6813
+OSCA
+10
+15
+43
+68
+Well Done!
+
+
+c4db2f8a-f519-437d-bc37-d6bbfd53039a
+IN
+11
+10
+40
+61
+Well Done!
+
+
+122d1d71-334f-42a3-953d-91072ed3275c
+SAAD
+13
+15
+41
+69
+Well Done!
+
+
+6bcff354-c063-4644-94a8-3eafa3055cc6
+PWP
+16
+12
+55
+83
+Well Done!
+
+
+965ccc29-caee-42d6-9054-a3ccff8185c7
+MCFC
+16
+13
+40
+69
+Well Done!
+
+
+473189b1-4b5d-446f-ab17-1c3bb1d85e7b
+OSCA
+13
+19
+42
+74
+Well Done!
+
+
+01970364-b285-4ade-b384-d4785c869d2d
+IN
+15
+11
+48
+74
+Well Done!
+
+
+ada751b8-af4c-4e5a-a3e5-c09a0bf0289a
+SAAD
+17
+15
+54
+86
+Well Done!
+
+
+34b10242-1830-4f5e-b84d-d81ff92bbfb5
+PWP
+12
+10
+47
+69
+Well Done!
+
+
+d286fc6d-ae34-489f-a651-f2ee5d038d61
+MCFC
+17
+16
+46
+79
+Well Done!
+
+
+b09b5b73-6337-4dbd-894a-8925120a756e
+OSCA
+16
+12
+54
+82
+Well Done!
+
+
+21b25f91-7657-41ba-bfcd-ce83028f0182
+IN
+15
+18
+44
+77
+Well Done!
+
+
+f9cfb8e4-6256-462b-a72c-69c011a4603d
+SAAD
+19
+13
+49
+81
+Well Done!
+
+
+658ad794-3058-4518-a8c7-fc47c6cdfa68
+PWP
+11
+12
+59
+82
+Well Done!
+
+
+2dc12521-5277-4cd1-a8ff-5e1fa885f0eb
+MCFC
+10
+15
+40
+65
+Well Done!
+
+
+3564b04e-54e2-42d6-8a54-207ab38e2632
+OSCA
+15
+11
+49
+75
+Well Done!
+
+
+2b2aefaf-1ff7-4c5f-b9ce-038cc0c73be1
+IN
+12
+15
+59
+86
+Well Done!
+
+
+9a3bdf17-85ca-453a-869f-44cbf9d51331
+SAAD
+11
+17
+58
+86
+Well Done!
+
+
+2e3419f5-505f-45dc-96b3-36e3053d63e3
+PWP
+18
+14
+46
+78
+Well Done!
+
+
+ee9e9af7-42e9-4c57-84c1-b10ac4bdd56f
+MCFC
+12
+13
+50
+75
+Well Done!
+
+
+419464ee-4c7f-4e56-88eb-4b2273d28065
+OSCA
+10
+19
+44
+73
+Well Done!
+
+
+d210c260-d3db-45fc-9018-0f2ef17dfad3
+IN
+10
+17
+41
+68
+Well Done!
+
+
+15c1a467-7bc8-420d-a72f-1ffe2dab34f7
+SAAD
+14
+13
+44
+71
+Well Done!
+
+
+8401cf4f-c9d4-491e-ac0d-decb6345a6a1
+PWP
+18
+15
+46
+79
+Well Done!
+
+
+d88acac7-4bc9-4ff8-88e3-e973bc62a9c9
+MCFC
+14
+18
+44
+76
+Well Done!
+
+
+e47a030c-c6f0-4829-b088-4439dddfbf33
+OSCA
+18
+17
+40
+75
+Well Done!
+
+
+c8ccab56-a50f-4672-9166-20c4778618e4
+IN
+15
+16
+44
+75
+Well Done!
+
+
+092844f1-54f0-4d4f-9b47-d827a32919e2
+SAAD
+15
+15
+47
+77
+Well Done!
+
+
+be6dcc50-8d37-4ece-b0e4-ecc5a4269d47
+PWP
+13
+18
+49
+80
+Well Done!
+
+
+a14c3dbc-aac5-4e3a-b23d-57539376714c
+MCFC
+10
+18
+41
+69
+Well Done!
+
+
+2365c9e6-3811-4554-a7cf-d9517775399c
+OSCA
+13
+18
+44
+75
+Well Done!
+
+
+6d72867c-5d9f-4281-a01f-428e1a6572ea
+DTAI
+16
+14
+41
+71
+Well Done!
+
+
+ab5b56fd-f170-4074-9472-b182e84aaf4c
+IMT
+12
+11
+46
+69
+Well Done!
+
+
+52c0f862-1945-46e0-b365-70345c09b72e
+PWP
+18
+12
+57
+87
+Well Done!
+
+
+ae6b9e94-96e1-4ce9-9af6-733711def9fb
+MCFC
+19
+14
+59
+92
+Well Done!
+
+
+928ed37b-3181-4849-801c-71a916e76d1d
+OSCA
+10
+13
+51
+74
+Well Done!
+
+
+4af95cdf-5f3e-4e40-9cac-e012bcfabcf7
+DTAI
+12
+13
+40
+65
+Well Done!
+
+
+5c44f3f6-e167-4785-92bd-b3c680a79e84
+IMT
+17
+14
+53
+84
+Well Done!
+
+
+1636cf62-7ab6-4f57-b93f-cf703066a225
+PWP
+10
+18
+43
+71
+Well Done!
+
+
+69974049-38eb-45ff-893a-8926c456598c
+MCFC
+13
+12
+42
+67
+Well Done!
+
+
+aa6edf04-7318-4862-947a-2e2757c0ac3e
+OSCA
+14
+19
+48
+81
+Well Done!
+
+
+1422c3bd-f9ac-451c-ab96-66d5ccc9daa6
+DTAI
+11
+10
+56
+77
+Well Done!
+
+
+ba9e2322-f9c1-4c16-b6fd-445c50cbb563
+IMT
+10
+11
+48
+69
+Well Done!
+
+
+b3287074-9ef0-4d68-a574-ca9ccc230eb5
+PWP
+19
+12
+46
+77
+Well Done!
+
+
+936643f4-034b-419e-b381-333df3bb7805
+MCFC
+19
+18
+53
+90
+Well Done!
+
+
+8c1d1dc2-3a74-4f35-918a-72f119d05ea7
+OSCA
+14
+18
+42
+74
+Well Done!
+
+
+a61b4e08-fd1f-4dd3-9f8d-6d984839e725
+DTAI
+12
+16
+52
+80
+Well Done!
+
+
+91f507e8-3c5e-4680-9d10-78fab4fbcf88
+IMT
+16
+12
+43
+71
+Well Done!
+
+
+da7ec143-5fb6-44d4-b4e8-d8d034dc2ecb
+PWP
+13
+15
+47
+75
+Well Done!
+
+
+39662418-e1cc-4d9a-a2a5-ec95202969db
+MCFC
+12
+11
+40
+63
+Well Done!
+
+
+a8353d10-6a38-46b8-9272-10ccb3f8b8fb
+OSCA
+15
+16
+59
+90
+Well Done!
+
+
+49038e72-3b27-4eeb-a473-807c5cbd7726
+DTAI
+16
+11
+54
+81
+Well Done!
+
+
+5176140f-493b-41ff-ac06-6a02545f9e1e
+IMT
+14
+11
+53
+78
+Well Done!
+
+
+8a2ad99a-56c5-4823-b68c-5f2ddee32be8
+PWP
+19
+13
+42
+74
+Well Done!
+
+
+06804ca7-684a-4d9a-acc4-d3b16d503174
+MCFC
+10
+13
+59
+82
+Well Done!
+
+
+efb95834-9156-4f1a-9321-1cee8806167b
+OSCA
+10
+10
+45
+65
+Well Done!
+
+
+1c18b4ae-59fe-40c3-ac1b-62b826fce331
+DTAI
+18
+11
+47
+76
+Well Done!
+
+
+2dc744d4-efdc-4387-a2a5-ef27a0a313f1
+IMT
+18
+11
+54
+83
+Well Done!
+
+
+ad2ac27d-27fc-479f-bd20-ae333f732ae2
+PWP
+18
+17
+48
+83
+Well Done!
+
+
+6f3f7074-60f1-4175-90e7-f78c3e67a392
+MCFC
+10
+10
+52
+72
+Well Done!
+
+
+73cda0c3-d081-4391-9bb8-ad7e96ef2ff6
+OSCA
+15
+14
+44
+73
+Well Done!
+
+
+3b84cc99-71c3-4aee-8c45-5805f391af61
+DTAI
+12
+10
+43
+65
+Well Done!
+
+
+ccb2de12-21ff-4a9d-bb2e-16747c3c654c
+IMT
+11
+13
+43
+67
+Well Done!
+
+
+136f869b-7e73-4df1-b812-8052ed6e9215
+PWP
+15
+10
+51
+76
+Well Done!
+
+
+cf9ecdc4-e1e6-401a-a689-4b5bc16c6c8f
+MCFC
+12
+11
+52
+75
+Well Done!
+
+
+d9321dd2-29e9-463c-8f8a-bf68d3427fff
+OSCA
+12
+16
+54
+82
+Well Done!
+
+
+8ecda955-0700-49b3-9e16-a73fb2ed104f
+IDB
+24
+18
+35
+77
+Well Done!
+
+
+508d3d2f-316e-4937-b271-636adaacb719
+COMT
+19
+20
+41
+80
+Well Done!
+
+
+1dcf491c-a2b9-4850-8b44-c897e0cc51c6
+DTST
+18
+22
+40
+80
+Well Done!
+
+
+e9a2b39c-b4ef-403e-8dea-dd0328314eae
+DSMT
+15
+22
+34
+71
+Well Done!
+
+
+1c6783f7-d7e2-49b5-9c39-4600d9b7831c
+RENG
+17
+18
+31
+66
+Well Done!
+
+
+121510e2-b47a-4ced-95e6-cbafb540f39c
+IDB
+17
+23
+30
+70
+Well Done!
+
+
+66780bf5-a1a1-4922-b3c0-4a83ec984916
+COMT
+22
+21
+46
+89
+Well Done!
+
+
+fa5e0217-90c5-49d0-9365-b4914ba3ff1b
+DTST
+18
+24
+41
+83
+Well Done!
+
+
+7253d1b7-d742-4405-88a8-20a4a1c89b53
+DSMT
+15
+16
+33
+64
+Well Done!
+
+
+60771f0b-267b-4492-8077-8845ef129eb6
+RENG
+23
+21
+36
+80
+Well Done!
+
+
+c4884527-9641-4fd7-b7f6-872520388b5c
+IDB
+22
+22
+36
+80
+Well Done!
+
+
+8c0c70b6-4e8d-494a-b0e7-973e2f6f4206
+COMT
+20
+22
+48
+90
+Well Done!
+
+
+f8209d40-f92f-4233-b5ae-2bb60ab241d0
+DTST
+16
+19
+44
+79
+Well Done!
+
+
+215b5691-ec51-49ab-98c6-f51ff58fb3f2
+DSMT
+18
+21
+30
+69
+Well Done!
+
+
+dcc3dc59-b919-4e27-bbc9-e9de4c4ab9b8
+RENG
+16
+18
+47
+81
+Well Done!
+
+
+31be9ae1-e9dd-4395-ab0e-840cf551d6ca
+IDB
+18
+20
+33
+71
+Well Done!
+
+
+8f373dc0-a1ea-46de-b884-e6031293548f
+COMT
+18
+22
+34
+74
+Well Done!
+
+
+6645b6bb-83a2-4069-943e-616acf9b978f
+DTST
+21
+20
+30
+71
+Well Done!
+
+
+d9d5a02b-6c85-46f7-9545-c2498acd38ef
+DSMT
+19
+15
+43
+77
+Well Done!
+
+
+43ba35fd-ef67-4e02-8896-77db7623f2c6
+RENG
+18
+19
+39
+76
+Well Done!
+
+
+142bea15-3ed4-4068-9ecd-c749786ee282
+IDB
+23
+19
+32
+74
+Well Done!
+
+
+bed5f27e-74f4-45fa-98e5-6b07a02229c5
+COMT
+22
+20
+46
+88
+Well Done!
+
+
+619ebf76-67d7-4789-b909-56fc6b7218af
+DTST
+19
+21
+47
+87
+Well Done!
+
+
+170f4e3d-e195-4961-afba-5610178f2f8d
+DSMT
+18
+18
+47
+83
+Well Done!
+
+
+fdae1381-147c-47e0-9a99-4e379aa8184c
+RENG
+24
+20
+38
+82
+Well Done!
+
+
+9ec0c0a5-10f9-4cbc-ad9d-4b9f2a8bafa1
+IDB
+19
+16
+31
+66
+Well Done!
+
+
+8145056f-2974-4f8a-bbef-1a0b0355e238
+COMT
+16
+16
+37
+69
+Well Done!
+
+
+183af95e-ab81-46a0-81e6-31592d8953c1
+DTST
+16
+22
+31
+69
+Well Done!
+
+
+42aab8fc-9217-4ef5-9d09-35f401b4cf88
+DSMT
+23
+17
+44
+84
+Well Done!
+
+
+3bbef476-5d3f-4e9a-8b4f-833537fcf5ea
+RENG
+16
+20
+38
+74
+Well Done!
+
+
+70dab723-10ae-432e-9913-5ed58ff38cd7
+IDB
+22
+22
+33
+77
+Well Done!
+
+
+0639f4b9-9177-4dc1-b34e-195be2f0e21e
+COMT
+16
+21
+49
+86
+Well Done!
+
+
+0616ea59-2da2-456b-abd5-de7f38c18d29
+DTST
+21
+23
+37
+81
+Well Done!
+
+
+e744cf25-4baa-48e8-a0d3-ffff7afbdec6
+DSMT
+18
+19
+40
+77
+Well Done!
+
+
+573d5590-5912-4249-9f15-d4d7a5576e8f
+RENG
+15
+21
+35
+71
+Well Done!
+
+
+2189b0fc-33d0-41d2-b4ac-5be9e95da2ac
+IDB
+19
+18
+40
+77
+Well Done!
+
+
+97d2b203-63e3-41cc-ada8-2c45994ef865
+COMT
+23
+19
+47
+89
+Well Done!
+
+
+708d9eea-4daf-4b1b-8b10-5cabd27b2d0a
+DTST
+15
+24
+35
+74
+Well Done!
+
+
+d32d705f-7986-4e65-be0c-d7bd7b5d9d45
+SFAT
+17
+19
+30
+66
+Well Done!
+
+
+ff8bc8d6-949b-4b48-b985-388836f46cec
+ENTS
+16
+15
+46
+77
+Well Done!
+
+
+20dab354-025e-4287-b142-96fa0f9c7e32
+IDB
+15
+24
+39
+78
+Well Done!
+
+
+296f1b31-57ff-4236-a409-4b75d6350bac
+COMT
+17
+21
+39
+77
+Well Done!
+
+
+05073544-d356-47f0-8c74-aa1ba159b4c4
+DTST
+20
+19
+34
+73
+Well Done!
+
+
+6fdfbe86-526a-466c-a928-cea495936702
+SFAT
+20
+24
+39
+83
+Well Done!
+
+
+f5afe917-59a2-43e2-a833-54b5fd2816e0
+ENTS
+16
+17
+49
+82
+Well Done!
+
+
+74167580-1861-4ad1-b3fb-d243129a2bff
+IDB
+15
+15
+47
+77
+Well Done!
+
+
+c4c3047f-0756-4f62-bef7-758748b55ceb
+COMT
+24
+15
+30
+69
+Well Done!
+
+
+463d51b2-7c64-4144-b4f6-d0babe9f7283
+DTST
+23
+20
+39
+82
+Well Done!
+
+
+3efa9c4b-d007-476d-972b-d635917fdb5a
+SFAT
+17
+21
+49
+87
+Well Done!
+
+
+2e97f3e9-6abc-466e-8434-1cc65ac82a09
+ENTS
+21
+24
+41
+86
+Well Done!
+
+
+b6cf8730-49ea-4006-a20d-e7159332a571
+IDB
+23
+15
+31
+69
+Well Done!
+
+
+dbf50705-f880-4a6d-871b-7d0f4633caa0
+COMT
+23
+15
+31
+69
+Well Done!
+
+
+d132246a-ce86-4fbe-8c6a-f7138a9c7640
+DTST
+23
+24
+32
+79
+Well Done!
+
+
+52b0c95a-9835-4425-b535-303224271fd5
+SFAT
+16
+15
+34
+65
+Well Done!
+
+
+af183e20-9233-4ddf-946b-aa6e9ba4acb5
+ENTS
+17
+18
+30
+65
+Well Done!
+
+
+a8092f48-1a1a-4f47-b3ff-91636290d3bc
+IDB
+18
+21
+35
+74
+Well Done!
+
+
+353b751c-cd06-491a-9afe-0f8ab2f9fafd
+COMT
+21
+21
+32
+74
+Well Done!
+
+
+6d485ac1-fb6a-4aa5-aa3c-aec06a1a8c62
+DTST
+18
+24
+43
+85
+Well Done!
+
+
+80ba51a2-68a7-495a-86bf-009d99638f68
+SFAT
+18
+20
+36
+74
+Well Done!
+
+
+35b62112-2037-49f8-bba7-ee503ef99b0f
+ENTS
+15
+21
+43
+79
+Well Done!
+
+
+b7d037bf-8249-4c36-820b-625878ba3c39
+IDB
+16
+15
+44
+75
+Well Done!
+
+
+84178e52-c491-4f66-ac53-e8101bba40e9
+COMT
+22
+24
+37
+83
+Well Done!
+
+
+5bbe81c9-d80e-4409-b926-16031b7a253c
+DTST
+21
+21
+41
+83
+Well Done!
+
+
+3640b0c6-6b9d-4eb7-a552-333f75ce854c
+SFAT
+17
+16
+33
+66
+Well Done!
+
+
+b06c7ab5-1af0-4b90-8bc8-2e9ff5eb01ef
+ENTS
+18
+20
+37
+75
+Well Done!
+
+
+7e7c6751-87e1-4c68-a7dc-8a35932f38c7
+IDB
+21
+21
+36
+78
+Well Done!
+
+
+b9c93e8f-2a7e-4df9-b45d-013573430f4f
+COMT
+16
+20
+31
+67
+Well Done!
+
+
+eda2b7e0-f0ba-41d0-ab4d-b5c47185995d
+DTST
+17
+21
+38
+76
+Well Done!
+
+
+80fe0976-2c0f-426a-b22f-e13cd2d995dd
+SFAT
+23
+17
+32
+72
+Well Done!
+
+
+a4f6084e-71b8-43aa-b503-2e7c831764cc
+ENTS
+20
+24
+47
+91
+Well Done!
+
+
+9811de34-a2b8-4842-91d9-8942b3eb5e10
+IDB
+21
+20
+30
+71
+Well Done!
+
+
+8e6755c5-d5aa-4a11-a80c-215f55620806
+COMT
+21
+15
+48
+84
+Well Done!
+
+
+71849120-1a46-4d15-a0fb-8c99903a2ad1
+DTST
+22
+18
+37
+77
+Well Done!
+
+
+cffbae13-6773-4b44-a04d-b332541b44ae
+SFAT
+16
+20
+45
+81
+Well Done!
+
+
+90278b33-dcf2-457d-8588-b78654921379
+ENTS
+15
+15
+35
+65
+Well Done!
+
+
+7648098d-0d10-4b07-a001-1db342487a8e
+IDB
+19
+21
+31
+71
+Well Done!
+
+
+9b019f60-3c55-4c3d-8d5e-2490feb1edb8
+COMT
+22
+18
+38
+78
+Well Done!
+
+
+163bad16-104f-48b5-8237-587065b10623
+DTST
+23
+24
+37
+84
+Well Done!
+
+
+15fd851c-d3fc-4d87-987a-62502cae9a0e
+SFAT
+16
+17
+41
+74
+Well Done!
+
+
+74e4edf8-4665-4bec-b788-9d9f385319ab
+ENTS
+20
+19
+34
+73
+Well Done!
+
+
+a626832a-c5bd-4e6b-8685-b4f52cf5625e
+IDB
+18
+23
+38
+79
+Well Done!
+
+
+72250359-7db8-4d1b-ad0f-5f8cf11f64dd
+COMT
+24
+19
+39
+82
+Well Done!
+
+
+8f5c11d7-4cbf-4a9e-8eaf-c705947f886f
+DTST
+21
+24
+34
+79
+Well Done!
+
+
+5dc596f4-ae47-47cd-a63b-a49ee231adc4
+SFAT
+15
+16
+40
+71
+Well Done!
+
+
+5c4357d0-a581-4445-8aa8-eb523e3754f7
+ENTS
+23
+17
+33
+73
+Well Done!
+
+
+97d69c0d-f4cd-48a3-8343-e7055b56f38f
+IDB
+20
+20
+49
+89
+Well Done!
+
+
+d56fe533-75a4-4723-962b-44a3c52c8d38
+COMT
+22
+20
+33
+75
+Well Done!
+
+
+d1150d70-98bf-4c11-a399-ad11be1c8ba7
+DTST
+24
+23
+34
+81
+Well Done!
+
+
+7abe3440-20b6-4b29-8b96-3a4816ca84c0
+SFAT
+22
+23
+36
+81
+Well Done!
+
+
+7b7949d3-9279-456d-b65c-2b5e9c7cd714
+ENTS
+17
+15
+49
+81
+Well Done!
+
+
+84f00a91-873a-4856-8b97-69c0fe7a0c88
+IDB
+16
+24
+47
+87
+Well Done!
+
+
+6fcb7f46-e8ab-4fce-8344-f903a23abb08
+COMT
+23
+18
+42
+83
+Well Done!
+
+
+bf4116f2-2b55-4a5e-a10e-39d922cd5899
+DTST
+20
+17
+46
+83
+Well Done!
+
+
+5f5528e0-cc87-4816-8ca7-d7789520f332
+SFAT
+20
+16
+49
+85
+Well Done!
+
+
+f58f7151-f02a-4524-a4eb-c8a7983d6b81
+ENTS
+19
+18
+48
+85
+Well Done!
+
+
+1de79f09-a92e-4dfa-ae08-4191ad9f0ed3
+IDB
+18
+18
+40
+76
+Well Done!
+
+
+495522fd-2b3c-44b9-885e-7d91339ae93a
+COMT
+24
+15
+44
+83
+Well Done!
+
+
+2f572ad8-23f4-49ff-8046-3c5d4c63e7e4
+DTST
+24
+17
+44
+85
+Well Done!
+
+
+cd950b51-6613-4e2f-9deb-4f1169c02811
+SFAT
+20
+17
+34
+71
+Well Done!
+
+
+53726573-60dc-4020-953b-567ae6e1abf5
+ENTS
+19
+24
+32
+75
+Well Done!
+
+
+207e4c44-ad6d-4e19-9943-344d8938973e
+CCPG
+19
+10
+50
+79
+Well Done!
+
+
+ae0b8475-bab6-4869-9d22-aafd45c60849
+FDD
+10
+11
+49
+70
+Well Done!
+
+
+afbeb0d5-3cce-4e32-bbb4-300179ab7309
+MAEG
+16
+11
+58
+85
+Well Done!
+
+
+28c5cddb-dc9e-4289-879c-80f0d10d77b6
+PJM
+13
+13
+51
+77
+Well Done!
+
+
+283b3bdd-081d-48bf-9abf-d6de971be7dc
+ADDS
+19
+10
+59
+88
+Well Done!
+
+
+b3d5f3dc-0b55-4c21-8a28-c4edb2d4b5f0
+CCPG
+15
+14
+55
+84
+Well Done!
+
+
+beeec8b5-27fc-451d-b82b-aa3a5653796e
+FDD
+13
+11
+46
+70
+Well Done!
+
+
+3799c918-1861-4bcb-b3f8-295ec196defa
+MAEG
+11
+10
+58
+79
+Well Done!
+
+
+cc068e34-7a56-41f4-9f3c-52f90a8d39ec
+PJM
+13
+12
+56
+81
+Well Done!
+
+
+0504b8d7-29b7-4326-9fa9-2a0c7d816299
+ADDS
+10
+10
+42
+62
+Well Done!
+
+
+454c0a40-369e-4d8e-981a-d47fce088cee
+CCPG
+12
+16
+59
+87
+Well Done!
+
+
+51a2d171-0bd2-46f8-b10a-37d8e373dda4
+FDD
+16
+19
+59
+94
+Well Done!
+
+
+25a53b2e-8943-422f-b8df-3325e41ce251
+MAEG
+12
+12
+55
+79
+Well Done!
+
+
+471bd6d4-443f-4a50-a4bc-0a90dfb44d2c
+PJM
+10
+16
+48
+74
+Well Done!
+
+
+ed3ade8e-d464-4e31-a840-105ee5ec3755
+ADDS
+10
+10
+50
+70
+Well Done!
+
+
+08827324-0970-4300-9eac-5b28cabe85dd
+CCPG
+17
+17
+59
+93
+Well Done!
+
+
+cbdcc8c6-48f3-4b80-8264-58493e87540b
+FDD
+10
+13
+49
+72
+Well Done!
+
+
+bfb879a9-ab24-417c-8e63-16a1b1448b0d
+MAEG
+10
+10
+44
+64
+Well Done!
+
+
+de58a14e-9c26-4355-bdcd-5ab0316d8ec0
+PJM
+12
+15
+49
+76
+Well Done!
+
+
+85a08384-2539-4eca-b950-04e80f20731c
+ADDS
+11
+12
+50
+73
+Well Done!
+
+
+a1ab688d-3988-4dc3-b8bd-69ffb8bf1595
+CCPG
+11
+17
+44
+72
+Well Done!
+
+
+315f53a7-de92-4e5d-a3fb-8f562571ec27
+FDD
+15
+13
+58
+86
+Well Done!
+
+
+0ff23aef-0945-4598-a923-ad8cd9e40a56
+MAEG
+10
+12
+43
+65
+Well Done!
+
+
+8b5a2b97-a3db-460b-8ac6-e4601686da76
+PJM
+11
+16
+50
+77
+Well Done!
+
+
+31594aaf-2ba9-4f45-97ae-d88c2d099b4b
+ADDS
+12
+12
+49
+73
+Well Done!
+
+
+c2143c15-3e3e-449e-b9ef-f43ebb6a7e4b
+CCPG
+18
+11
+43
+72
+Well Done!
+
+
+a7ca6b3a-06b8-4255-8d7b-b7be6a94036a
+FDD
+10
+11
+51
+72
+Well Done!
+
+
+83df29fa-113c-4847-9322-82f6662fd18c
+MAEG
+10
+11
+53
+74
+Well Done!
+
+
+673e2103-f8e7-4dad-9046-29802c8951d4
+PJM
+13
+16
+59
+88
+Well Done!
+
+
+fa122495-ef2c-495e-ba6e-5db9e391b98e
+ADDS
+12
+13
+59
+84
+Well Done!
+
+
+4736ed1f-f24c-4d77-b707-501fe1fc678d
+CCPG
+12
+16
+43
+71
+Well Done!
+
+
+51ed0a06-6398-436e-a0c5-7a345d449269
+FDD
+16
+12
+43
+71
+Well Done!
+
+
+546695a0-ec1a-46bb-911e-611d40b8cdfa
+MAEG
+17
+13
+42
+72
+Well Done!
+
+
+0b7bc304-e06d-4e58-be6d-f008ad2f5875
+PJM
+12
+16
+49
+77
+Well Done!
+
+
+3328adba-98ec-40e7-a467-a38905c66557
+ADDS
+17
+11
+40
+68
+Well Done!
+
+
+f939b6b6-5ef3-4421-95db-2b361979372c
+CCPG
+18
+18
+53
+89
+Well Done!
+
+
+abd72b18-2d28-4f6b-bb37-e2a5261eb80a
+FDD
+11
+12
+43
+66
+Well Done!
+
+
+7144d85a-bcfa-4499-a3cf-fdd423de1aec
+MAEG
+14
+12
+47
+73
+Well Done!
+
+
+df851286-d479-4b89-9c92-99ca4e12779e
+PJM
+18
+13
+55
+86
+Well Done!
+
+
+8d8c712d-10d6-4f23-8936-3fe09e77a88d
+ADDS
+19
+15
+55
+89
+Well Done!
+
+
+4a77d36d-d59c-4f7e-b8d9-a7c4d7746d51
+FDD
+18
+13
+45
+76
+Well Done!
+
+
+4c842a0a-2f6e-4e18-836f-c6d833200011
+MAEG
+19
+18
+49
+86
+Well Done!
+
+
+2de45bb7-e464-484b-8ba4-ec76f291377d
+PJM
+10
+19
+56
+85
+Well Done!
+
+
+cbf48841-3ac7-4cbe-b9db-dc828701959a
+ADDS
+16
+18
+58
+92
+Well Done!
+
+
+5dfa9d45-d6fa-4993-8db3-3c035d50dd15
+DCS
+15
+19
+57
+91
+Well Done!
+
+
+36835e6a-f99d-4439-a6f1-abb1f8e03937
+FDD
+16
+13
+57
+86
+Well Done!
+
+
+702193c5-cde2-42e6-8c07-b33ed2ca9f5d
+MAEG
+12
+19
+45
+76
+Well Done!
+
+
+dcf5ac46-d00d-4130-82cb-da3b42c784ec
+PJM
+17
+18
+54
+89
+Well Done!
+
+
+675ff353-0718-4a99-a2fa-cb674b77be39
+ADDS
+14
+15
+57
+86
+Well Done!
+
+
+756369fc-68b6-4d13-9d50-7b02d38b5f88
+DCS
+10
+16
+47
+73
+Well Done!
+
+
+d8cc9e15-1613-49d6-9594-812ba019d012
+FDD
+16
+11
+43
+70
+Well Done!
+
+
+7be239f9-38ad-4d6e-9577-aca2ebade099
+MAEG
+16
+19
+41
+76
+Well Done!
+
+
+0d25b46d-f57a-4af9-ae70-8b8271e143ca
+PJM
+19
+19
+48
+86
+Well Done!
+
+
+97b777f8-c63d-4c8f-b5db-5555e54daeb1
+ADDS
+18
+10
+59
+87
+Well Done!
+
+
+72316676-32f3-493b-8584-f2f591d1e10b
+DCS
+19
+12
+45
+76
+Well Done!
+
+
+a8114e0f-14e9-4bc3-acba-702efbf8eda9
+FDD
+18
+12
+45
+75
+Well Done!
+
+
+0e4c9fe1-2b9f-48c4-9e2b-1224997ef11b
+MAEG
+11
+11
+59
+81
+Well Done!
+
+
+6aebe0cb-c123-43f4-b072-db5a985f6980
+PJM
+14
+15
+53
+82
+Well Done!
+
+
+48b15fd8-44bd-4781-b5b4-bb1f53bbe832
+ADDS
+16
+14
+53
+83
+Well Done!
+
+
+c1437f16-7f3d-4738-9507-9b08692956f9
+DCS
+10
+19
+51
+80
+Well Done!
+
+
+4b927498-4a7f-4046-8904-24786fa30b84
+FDD
+13
+19
+53
+85
+Well Done!
+
+
+3a477c42-909c-4bd8-8896-958ce278cd6f
+MAEG
+18
+19
+45
+82
+Well Done!
+
+
+700e0d2b-a061-4671-83d1-f2a1e422705e
+PJM
+11
+19
+54
+84
+Well Done!
+
+
+97e14ca1-9679-44fc-a927-65e6afced123
+ADDS
+17
+13
+49
+79
+Well Done!
+
+
+cfb3ab46-27a7-4f45-8c21-0294f297d827
+DCS
+16
+10
+49
+75
+Well Done!
+
+
+12c53c18-105d-41fc-8c14-08084fd69636
+FDD
+11
+12
+57
+80
+Well Done!
+
+
+30e54856-70d8-4b5a-a111-799f6e2dbf70
+MAEG
+17
+17
+42
+76
+Well Done!
+
+
+ca358e0f-6418-4928-a311-27c9a97822b2
+PJM
+16
+16
+49
+81
+Well Done!
+
+
+707f5496-cb75-4bd3-923e-9c4bd92dc9f7
+ADDS
+13
+17
+55
+85
+Well Done!
+
+
+6989fa98-f13b-479a-872d-23a5f3ff6ca9
+DCS
+12
+13
+41
+66
+Well Done!
+
+
+8ae83dca-abc9-4d3e-8dbf-e7938a71acad
+FDD
+11
+13
+56
+80
+Well Done!
+
+
+06d85d64-a78e-4559-816f-752ba96f82bc
+MAEG
+13
+17
+42
+72
+Well Done!
+
+
+6768399f-4f98-4d2e-82b3-fcae97ac6f89
+PJM
+11
+12
+57
+80
+Well Done!
+
+
+23e5e3e8-0f5c-47a6-bcc0-9084dacbf823
+ADDS
+18
+19
+57
+94
+Well Done!
+
+
+60699afa-b784-4ee1-b22e-a893c05fdb3f
+DCS
+11
+12
+56
+79
+Well Done!
+
+
+81338168-f800-4521-bf78-d60e79d82886
+FDD
+19
+13
+48
+80
+Well Done!
+
+
+1556521a-ceb2-40e9-a406-b9eec76bf418
+MAEG
+11
+14
+49
+74
+Well Done!
+
+
+e5516259-adf1-4623-87c7-e1cf926d2829
+PJM
+10
+17
+44
+71
+Well Done!
+
+
+2786a309-23ca-4e83-98b5-e66908fe854c
+ADDS
+14
+12
+59
+85
+Well Done!
+
+
+900cab06-a2b2-4d46-9b99-788d10320bd8
+DCS
+18
+18
+50
+86
+Well Done!
+
+
+bf3063c9-8394-4352-9f9f-10785ead3554
+FDD
+14
+19
+53
+86
+Well Done!
+
+
+5ea6d2f1-850c-46d5-b01d-d290adef8f8a
+MAEG
+12
+17
+56
+85
+Well Done!
+
+
+d105cd70-9e0f-4fad-8567-d822068d0b59
+PJM
+11
+11
+40
+62
+Well Done!
+
+
+b90822b9-1fc9-4612-bba1-2ae7bdc9b4ce
+ADDS
+19
+14
+45
+78
+Well Done!
+
+
+e5429b8a-08fd-44c4-a5ae-e28d79598bb7
+DCS
+12
+10
+55
+77
+Well Done!
+
+
+e4c47dcd-6bd6-482e-8cb9-ecc21e54acef
+FDD
+18
+14
+44
+76
+Well Done!
+
+
+7db02e1c-1f92-4afa-9470-f478f2be4e6f
+MAEG
+15
+16
+57
+88
+Well Done!
+
+
+a45d8061-366e-4b1a-aa31-c2f901620aad
+PJM
+15
+18
+44
+77
+Well Done!
+
+
+ad57701c-f289-4b62-b348-6c28e6aa7b1a
+ADDS
+12
+13
+58
+83
+Well Done!
+
+
+0e541349-2344-4414-86a8-9b344b74dc60
+DCS
+17
+17
+41
+75
+Well Done!
+
+
+a0e5590e-98d0-4a39-8e21-103c274a1c02
+FDD
+16
+10
+41
+67
+Well Done!
+
+
+fad77d7b-51c6-4132-9d85-829f2afccddb
+MAEG
+10
+11
+57
+78
+Well Done!
+
+
+b7f8e207-8a0f-42a2-8804-6a2ebfba1cd8
+PJM
+14
+13
+53
+80
+Well Done!
+
+
+a4d80fff-5677-4514-ac52-aa3cb289721d
+ADDS
+11
+12
+55
+78
+Well Done!
+
+
+0ff52f6f-2202-4151-b705-92e18d0a7fc0
+DCS
+18
+10
+40
+68
+Well Done!
+
+
+a7ecf15f-a45d-44d5-9a94-f29ffa23b563
+FDD
+15
+15
+50
+80
+Well Done!
+
+
+4429320f-ed42-4c1f-9755-938117be6a70
+MAEG
+12
+17
+47
+76
+Well Done!
+
+
+643cf070-b1ca-4758-8d11-e89e14d3b0c0
+PJM
+14
+11
+43
+68
+Well Done!
+
+
+8c72b00b-6745-4cb5-b09f-8df5beb53fb9
+ADDS
+12
+14
+41
+67
+Well Done!
+
+
+acee469a-ce1e-4629-bdea-5f9a72066c6f
+DCS
+15
+12
+58
+85
+Well Done!
+
+
+f260eced-db4b-4e29-a77d-750012d4c684
+DTAI
+12
+13
+53
+78
+Well Done!
+
+

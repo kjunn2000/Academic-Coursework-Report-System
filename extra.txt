@@ -1,0 +1,840 @@
+TP000000
+2
+Josh Chew
+JC001
+FEMALE
+36
+Josh Chew@gmail.com
+010-73795697
+1
+APU1F1904SE
+Empty
+Empty
+
+
+TP000001
+2
+Eric Hwang
+Eh002
+FEMALE
+43
+Eric Hwang@gmail.com
+010-84950823
+1
+APU1F1904SE
+Empty
+Empty
+
+
+TP000002
+2
+John See
+Js003
+MALE
+58
+John See@gmail.com
+010-23840826
+1
+APU1F1904SE
+Empty
+Empty
+
+
+TP000003
+2
+Aston Tao
+At004
+FEMALE
+34
+Aston Tao@gmail.com
+010-49245050
+1
+APU1F1904SE
+Empty
+Empty
+
+
+TP000004
+2
+William Tan
+Ji005
+MALE
+49
+William Tan@gmail.com
+010-71240802
+1
+APU1F1904SE
+Empty
+Empty
+
+
+TP000005
+2
+Kris Sim
+Ki006
+FEMALE
+59
+Kris Sim@gmail.com
+010-40442821
+1
+APU1F1904SE
+Empty
+Empty
+
+
+TP000006
+2
+Paul Chris
+LO007
+FEMALE
+42
+Paul Chris@gmail.com
+010-37374809
+1
+APU1F1904SE
+Empty
+Empty
+
+
+TP000007
+2
+Adam Koo
+ji008
+MALE
+55
+Adam Koo@gmail.com
+010-23792515
+1
+APU1F1904IT
+Empty
+Empty
+
+
+TP000008
+2
+Harden Tee
+lo009
+FEMALE
+57
+Harden Tee@gmail.com
+010-95219229
+1
+APU1F1904IT
+Empty
+Empty
+
+
+TP000009
+2
+Lebron James
+hu010
+FEMALE
+55
+Lebron James@gmail.com
+010-4520948
+1
+APU1F1904IT
+Empty
+Empty
+
+
+TP000010
+2
+Ham Sim
+hs011
+FEMALE
+56
+Ham Sim@gmail.com
+010-10039886
+1
+APU1F1904IT
+Empty
+Empty
+
+
+TP000011
+2
+Alan Smith
+la012
+FEMALE
+43
+Alan Smith@gmail.com
+010-38621447
+1
+APU1F1904IT
+Empty
+Empty
+
+
+TP000012
+2
+Mark Lim
+sj013
+MALE
+59
+Mark Lim@gmail.com
+010-43811083
+1
+APU1F1904IT
+Empty
+Empty
+
+
+TP000013
+2
+Peter Teo
+sh014
+FEMALE
+35
+Peter Teo@gmail.com
+010-82564017
+1
+APU1F1904IT
+Empty
+Empty
+
+
+TP000014
+2
+Ben Lowy
+js015
+MALE
+27
+Ben Lowy@gmail.com
+010-30002064
+1
+APU1F1904CS
+Empty
+Empty
+
+
+TP000015
+2
+Bennet Chiu
+si016
+MALE
+27
+Bennet Chiu@gmail.com
+010-1068278
+1
+APU1F1904CS
+Empty
+Empty
+
+
+TP000016
+2
+Vivian Soh
+lo017
+MALE
+54
+Vivian Soh@gmail.com
+010-50371562
+1
+APU1F1904CS
+Empty
+Empty
+
+
+TP000017
+2
+Fred Tee
+js018
+MALE
+39
+Fred Tee@gmail.com
+010-77079740
+1
+APU1F1904CS
+Empty
+Empty
+
+
+TP000018
+2
+Sion Lin
+oa019
+MALE
+39
+Sion Lin@gmail.com
+010-70410998
+1
+APU1F1904CS
+Empty
+Empty
+
+
+TP000019
+2
+Hugo Teo
+js020
+FEMALE
+28
+Hugo Teo@gmail.com
+010-93090096
+1
+APU1F1904CS
+Empty
+Empty
+
+
+TP000020
+2
+Hugan Hau
+ia021
+MALE
+26
+Hugan Hau@gmail.com
+010-15076997
+2
+APU1F1904CS
+Empty
+Empty
+
+
+TP000021
+2
+Adelin See
+oa022
+MALE
+56
+Adelin See@gmail.com
+010-77942137
+2
+APU2F2006IT
+Empty
+Empty
+
+
+TP000022
+2
+Jason Hoo
+sn023
+FEMALE
+52
+Jason Hoo@gmail.com
+010-91453844
+2
+APU2F2006IT
+Empty
+Empty
+
+
+TP000023
+2
+Wish Fang
+ol024
+FEMALE
+48
+Wish Fang@gmail.com
+010-38259880
+2
+APU2F2006IT
+Empty
+Empty
+
+
+TP000024
+2
+Ken See
+lo025
+MALE
+39
+Ken See@gmail.com
+010-89986480
+2
+APU2F2006IT
+Empty
+Empty
+
+
+TP000025
+2
+Show Low
+lp026
+FEMALE
+33
+Show Low@gmail.com
+010-18644609
+2
+APU2F2006IT
+Empty
+Empty
+
+
+TP000026
+2
+Will Pan
+js027
+MALE
+59
+Will Pan@gmail.com
+010-20924700
+2
+APU2F2006IT
+Empty
+Empty
+
+
+TP000027
+2
+Tezzy Tan
+lo028
+FEMALE
+43
+Tezzy Tan@gmail.com
+010-59777366
+2
+APU2F2006IT
+Empty
+Empty
+
+
+TP000028
+2
+Love Bird
+ja029
+MALE
+28
+Love Bird@gmail.com
+010-67619139
+2
+APU2F2006SE
+Empty
+Empty
+
+
+TP000029
+2
+Stan Smith
+ja030
+FEMALE
+57
+Stan Smith@gmail.com
+010-48568598
+2
+APU2F2006SE
+Empty
+Empty
+
+
+TP000030
+2
+Kyrie Jordan
+aj031
+MALE
+44
+Kyrie Jordan@gmail.com
+010-63309703
+2
+APU2F2006SE
+Empty
+Empty
+
+
+TP000031
+2
+Jim Howard
+ja032
+FEMALE
+29
+Jim Howard@gmail.com
+010-79495529
+2
+APU2F2006SE
+Empty
+Empty
+
+
+TP000032
+2
+Tom Tang
+jo033
+MALE
+50
+Tom Tang@gmail.com
+010-23047042
+2
+APU2F2006SE
+Empty
+Empty
+
+
+TP000033
+2
+Tommy Choo
+qq034
+FEMALE
+42
+Tommy Choo@gmail.com
+010-71267899
+2
+APU2F2006SE
+Empty
+Empty
+
+
+TP000034
+2
+Violet Yeo
+ls035
+MALE
+33
+Violet Yeo@gmail.com
+010-87387727
+2
+APU2F2006SE
+Empty
+Empty
+
+
+TP000035
+2
+Mia To
+nz036
+FEMALE
+27
+Mia To@gmail.com
+010-7962711
+2
+APU2F2006CS
+Empty
+Empty
+
+
+TP000036
+2
+Amy Toh
+qi037
+FEMALE
+54
+Amy Toh@gmail.com
+010-59503711
+2
+APU2F2006CS
+Empty
+Empty
+
+
+TP000037
+2
+Jude Lay
+an038
+MALE
+39
+Jude Lay@gmail.com
+010-98768580
+2
+APU2F2006CS
+Empty
+Empty
+
+
+TP000038
+2
+Zion Will
+ja039
+FEMALE
+54
+Zion Will@gmail.com
+010-42346726
+2
+APU2F2006CS
+Empty
+Empty
+
+
+TP000039
+2
+Janat Choo
+ab040
+MALE
+35
+Janat Choo@gmail.com
+010-75480346
+2
+APU2F2006CS
+Empty
+Empty
+
+
+TP000040
+2
+Kevin Ng
+nz041
+MALE
+42
+Kevin Ng@gmail.com
+010-7508258
+3
+APU2F2006CS
+Empty
+Empty
+
+
+TP000041
+2
+Wilson Teo
+zn042
+FEMALE
+50
+Wilson Teo@gmail.com
+010-71884539
+3
+APU2F2006CS
+Empty
+Empty
+
+
+TP000042
+2
+Kelly Chua
+lo043
+MALE
+40
+Kelly Chua@gmail.com
+010-52415676
+3
+APU3F2106CS
+Empty
+Empty
+
+
+TP000043
+2
+Debby Lim
+zn044
+FEMALE
+47
+Debby Lim@gmail.com
+010-54176338
+3
+APU3F2106CS
+Empty
+Empty
+
+
+TP000044
+2
+Jay Chang
+nz045
+MALE
+34
+Jay Chang@gmail.com
+010-27505181
+3
+APU3F2106CS
+Empty
+Empty
+
+
+TP000045
+2
+Katrlyn Soo
+qa046
+FEMALE
+48
+Katrlyn Soo@gmail.com
+010-96548672
+3
+APU3F2106CS
+Empty
+Empty
+
+
+TP000046
+2
+Evelyn Tay
+xz047
+FEMALE
+35
+Evelyn Tay@gmail.com
+010-40012179
+3
+APU3F2106CS
+Empty
+Empty
+
+
+TP000047
+2
+Joven Neo
+nz048
+MALE
+36
+Joven Neo@gmail.com
+010-21094035
+3
+APU3F2106CS
+Empty
+Empty
+
+
+TP000048
+2
+Jubily Xin
+na049
+FEMALE
+32
+Jubily Xin@gmail.com
+010-66019728
+3
+APU3F2106CS
+Empty
+Empty
+
+
+TP000049
+2
+Joe Damian
+lo050
+MALE
+28
+Joe Damian@gmail.com
+010-46159690
+3
+APU3F2106SE
+Empty
+Empty
+
+
+TP000050
+2
+Irene Xing
+ab051
+MALE
+26
+Irene Xing@gmail.com
+010-27405649
+3
+APU3F2106SE
+Empty
+Empty
+
+
+TP000051
+2
+Zyn Zou
+qw052.ab053
+MALE
+48
+Zyn Zou@gmail.com
+010-12296855
+3
+APU3F2106SE
+Empty
+Empty
+
+
+TP000052
+2
+Otis Tsao
+fy054
+MALE
+31
+Otis Tsao@gmail.com
+010-15328942
+3
+APU3F2106SE
+Empty
+Empty
+
+
+TP000053
+2
+Tosh Soon
+kl055
+FEMALE
+49
+Tosh Soon@gmail.com
+010-79944529
+3
+APU3F2106SE
+Empty
+Empty
+
+
+TP000054
+2
+Rainie Yang
+al056
+FEMALE
+42
+Rainie Yang@gmail.com
+010-66896160
+3
+APU3F2106SE
+Empty
+Empty
+
+
+TP000055
+2
+Trae Young
+an057
+FEMALE
+52
+Trae Young@gmail.com
+010-17988525
+3
+APU3F2106IT
+Empty
+Empty
+
+
+TP000056
+2
+Gray Tsai
+ai058
+MALE
+42
+Gray Tsai@gmail.com
+010-26648299
+3
+APU3F2106IT
+Empty
+Empty
+
+
+TP000057
+2
+Aray Cha
+na059
+MALE
+33
+Aray Cha@gmail.com
+010-27336414
+3
+APU3F2106IT
+Empty
+Empty
+
+
+TP000058
+2
+Pierre Liu
+oq060
+FEMALE
+51
+Pierre Liu@gmail.com
+010-49508906
+3
+APU3F2106IT
+Empty
+Empty
+
+
+TP000059
+2
+Thomas Tang
+fu424
+MALE
+39
+Thomas Tang@gmail.com
+010-68648935
+3
+APU3F2106IT
+Empty
+Empty
+
+
